@@ -9,5 +9,4 @@ As a Bitcoiner, I'm obsessed with the idea how to manage the amount of cryptos I
 
 
 Many thanks to @zayneio for helping. 
-
-```
+Credit: https://www.youtube.com/watch?v=dpYPLUO3QcI
